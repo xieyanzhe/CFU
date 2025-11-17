@@ -9,7 +9,7 @@ We implement CFU and other methods through the following dependencies:
 - torchdata                       0.11.0
 - torchvision                    0.16.0+cu121
 ## Usage
-Before running the code, ensure the package structure of PDU is as follows:
+Before running the code, ensure the package structure of CFU is as follows:
 ```text
 CFU/
 ├── data/
